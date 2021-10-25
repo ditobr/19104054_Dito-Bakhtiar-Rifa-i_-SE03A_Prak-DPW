@@ -25,6 +25,7 @@
 
 
 
-#Latihan1 
+# 1.6 Tugas
 
-![latihan 1](https://user-images.githubusercontent.com/72486631/138625427-1b369c5f-97cc-4f26-ada0-b75b12d0cbec.png)
+
+![tugas1](https://user-images.githubusercontent.com/72486631/138628309-1f1fcad3-f940-4177-85a0-e02ab30046e6.png)
