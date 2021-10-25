@@ -18,3 +18,13 @@
     - tr    : Untuk membuat baris pada tabel (table row).
     - th    : Untuk mendefinisikan sel header pada tabel.
     - td    : Untuk membuat kolom di dalam baris tabel di HTML sehingga akan membentuk sel (table data).
+
+
+
+
+
+
+
+#Latihan1 
+
+![latihan 1](https://user-images.githubusercontent.com/72486631/138625427-1b369c5f-97cc-4f26-ada0-b75b12d0cbec.png)
