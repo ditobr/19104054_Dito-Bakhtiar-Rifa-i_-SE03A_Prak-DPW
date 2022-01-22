@@ -16,8 +16,8 @@
                 <h1>Selamat Datang di Sini All</h1>
             </div>
             <div class="col-5 mt-2">
-                <h6>Gimana Kabs?</h6>
-                <h6>Kenalin Anggota Kiyowo</h6>
+                <h6>Apa Kabs?</h6>
+                <h6>Kenalin nih</h6>
             </div>
         </div>
         <section id="portfolio" class="portfolio bg-light pb-4">
