@@ -1,6 +1,6 @@
 <?php
     $array = [1,2,3,4,5];
-    $nama = "Ups";
+    $nama = "ditob";
 ?>
 
 <!DOCTYPE html>
@@ -49,7 +49,7 @@
         </p>
     @endif
 
-    @if ($nama = "Ups")
+    @if ($nama = "ditob")
     <p>
         {{"Nama Saya Ups"}}
     </p>
